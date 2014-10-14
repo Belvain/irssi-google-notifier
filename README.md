@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/Belvain/irssi-google-notifier/master/goog
 ```
 8. Now you should be connected to the google talk server, next load the notifier plugin with command
 ```
-/load googlenotifier.pl
+/load googlenotify.pl
 ```
 9. Run command /roster and check the user id string of the account you want to user to RECEIVE the notifications.
 10. Copy that id string for later use.
@@ -34,5 +34,5 @@ wget https://raw.githubusercontent.com/Belvain/irssi-google-notifier/master/goog
 /set googlenotify_receiver theidyoujustcopied
 /set googlenotify_sender google.account.you.just.created@gmail.com
 ```
-12. Reload the plugin with /load googlenotifier.pl
+12. Reload the plugin with /load googlenotify.pl
 13. Be happy receiving notifications thru your Google account.
