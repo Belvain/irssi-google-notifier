@@ -27,7 +27,7 @@ wget https://raw.githubusercontent.com/Belvain/irssi-google-notifier/master/goog
 ```
 /load googlenotify.pl
 ```
-9. Run command /roster and check the user id string of the account you want to user to RECEIVE the notifications.
+9. Run command /roster and check the user id string of the account you want to use to RECEIVE the notifications.
 10. Copy that id string for later use.
 11. Run commands:
 ```
